@@ -1,0 +1,368 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\neotris\.gradle\caches\8.13\transforms\b998be600926ff9f0e3353363381ed39\transformed\viewbinding-8.11.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\187b2fa98a3b220c4e105fbbeee20c7d\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fc1a54580bdb52e24178813d3a24cf36\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\e6080b71644e84d7357363282c8b6ee1\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\956c76014635dece3b7af2dfaf4f2821\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\776061a299c6b95ff945e92e50cf9a6c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b28886630c43eb4e64cf7108b743c543\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7ae0b1f6065fa5aa6595fd454927ac7f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\571d64ebd844da15ee483571a2c22390\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\neotris\.gradle\caches\8.13\transforms\f1eeba0327a7cfe84cbd8d6bf47102fc\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\neotris\.gradle\caches\8.13\transforms\65e2903be497852bf420ff5e53506940\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a6e6c8cadda7457fbe900c57ac305571\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\276bfb1caed954ce39e6b78a81fd6653\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\2e084b0262f7002c9acb328ee142b605\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b6ba2397bfe8c7fdff7e857f205db360\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\245f993dd3c76e66660f7e411669079d\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1c4abb742e603600ae8fc203b24fcbf6\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a0760f46e53aecc888e8117ab320d339\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\16d20d2bc77c64986c8474d92b4327dc\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\70b4131f5543f0d8766745f3757e35d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e03d918acb3565b8e78448e23a41402\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a59ad6f1273bc4baeb332502e3d3abf7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e15d22970397bba03e264159ced175b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\79bb615a276b85cda8a38fd8156f8a04\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7948d8a2d4e25327831ef061f7156d0a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\50846a810f3f08e76aea4fcfc2d565de\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\ad54c3c6a3eb7a75e22b4c11d44a464a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\9232ca450a7819bc9662ff9af4966ba0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39e55a978bdce567153ff9270df053d9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6d2a7c791ab345da889eba347746e40d\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\e1f5fe37015b27aac2e88f1c195b1adc\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\4140305387fc1f790a75e371a111c900\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\7326f804949961537c47030dc3bedba6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\318c6b62af15ac8dd8bea09398422bea\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b6e4baffbac0577dce5daf689e4e7244\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\f494a5f1a562121e01edd9a5ffd695a4\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6ea6fa69a08cb1e70adf145d9ab06ccf\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b3714c2db5a36a3aad46685c36344641\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6b9adc835d475a314de7069f8cbc6f3b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\77ae1b80ce6019c85588a7516f604139\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\3d0987b6a1f887f06ac83e405fe97b4f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fb0c6f02a46138ce21d37da35c207ffe\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\5ea91a1a74a5e2863294f8a9e625f6e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\afd2ed1087547418f309852460498f1c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e7f2c8b64ed78ec2d5e5ddbd3364f30\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8018746e4a32b9b18d323a5ff521ff26\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\5cc3f598ab0aa7c28e70a05ca4c6c306\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b3da51865b82aba94ceb4815f3db6568\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7a9c34f18c28fcb4577797a4a2b19b8a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39fc492bf0f8c645b19c7ffc48011e51\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39d1a16cb9bbb09bf2f19670b23dc302\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\025a57b24e84a5525dc6bdaab124e3bb\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6bcb5e888f4c445248c35345cc83d224\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\neotris\.gradle\caches\8.13\transforms\f1eeba0327a7cfe84cbd8d6bf47102fc\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\neotris\.gradle\caches\8.13\transforms\f1eeba0327a7cfe84cbd8d6bf47102fc\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\neotris\.gradle\caches\8.13\transforms\65e2903be497852bf420ff5e53506940\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\neotris\.gradle\caches\8.13\transforms\65e2903be497852bf420ff5e53506940\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\5cc3f598ab0aa7c28e70a05ca4c6c306\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\5cc3f598ab0aa7c28e70a05ca4c6c306\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:13:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.aplikasi1.SplashActivity
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:17:13-63
+	android:name
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:15:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:17:65-20:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:19:23-70
+activity#com.example.aplikasi1.MainActivity
+ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:22:9-24:50
+	android:exported
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\neotris\.gradle\caches\8.13\transforms\b998be600926ff9f0e3353363381ed39\transformed\viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\neotris\.gradle\caches\8.13\transforms\b998be600926ff9f0e3353363381ed39\transformed\viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\187b2fa98a3b220c4e105fbbeee20c7d\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\187b2fa98a3b220c4e105fbbeee20c7d\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fc1a54580bdb52e24178813d3a24cf36\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fc1a54580bdb52e24178813d3a24cf36\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\e6080b71644e84d7357363282c8b6ee1\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\e6080b71644e84d7357363282c8b6ee1\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\956c76014635dece3b7af2dfaf4f2821\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\956c76014635dece3b7af2dfaf4f2821\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\776061a299c6b95ff945e92e50cf9a6c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\776061a299c6b95ff945e92e50cf9a6c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b28886630c43eb4e64cf7108b743c543\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b28886630c43eb4e64cf7108b743c543\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7ae0b1f6065fa5aa6595fd454927ac7f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7ae0b1f6065fa5aa6595fd454927ac7f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\571d64ebd844da15ee483571a2c22390\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\571d64ebd844da15ee483571a2c22390\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\neotris\.gradle\caches\8.13\transforms\f1eeba0327a7cfe84cbd8d6bf47102fc\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\neotris\.gradle\caches\8.13\transforms\f1eeba0327a7cfe84cbd8d6bf47102fc\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\neotris\.gradle\caches\8.13\transforms\65e2903be497852bf420ff5e53506940\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\neotris\.gradle\caches\8.13\transforms\65e2903be497852bf420ff5e53506940\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a6e6c8cadda7457fbe900c57ac305571\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a6e6c8cadda7457fbe900c57ac305571\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\276bfb1caed954ce39e6b78a81fd6653\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\neotris\.gradle\caches\8.13\transforms\276bfb1caed954ce39e6b78a81fd6653\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\2e084b0262f7002c9acb328ee142b605\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\2e084b0262f7002c9acb328ee142b605\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b6ba2397bfe8c7fdff7e857f205db360\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b6ba2397bfe8c7fdff7e857f205db360\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\245f993dd3c76e66660f7e411669079d\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\245f993dd3c76e66660f7e411669079d\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1c4abb742e603600ae8fc203b24fcbf6\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1c4abb742e603600ae8fc203b24fcbf6\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a0760f46e53aecc888e8117ab320d339\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a0760f46e53aecc888e8117ab320d339\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\16d20d2bc77c64986c8474d92b4327dc\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\neotris\.gradle\caches\8.13\transforms\16d20d2bc77c64986c8474d92b4327dc\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\70b4131f5543f0d8766745f3757e35d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\70b4131f5543f0d8766745f3757e35d0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e03d918acb3565b8e78448e23a41402\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e03d918acb3565b8e78448e23a41402\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a59ad6f1273bc4baeb332502e3d3abf7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a59ad6f1273bc4baeb332502e3d3abf7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e15d22970397bba03e264159ced175b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e15d22970397bba03e264159ced175b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\79bb615a276b85cda8a38fd8156f8a04\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\79bb615a276b85cda8a38fd8156f8a04\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7948d8a2d4e25327831ef061f7156d0a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7948d8a2d4e25327831ef061f7156d0a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\50846a810f3f08e76aea4fcfc2d565de\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\50846a810f3f08e76aea4fcfc2d565de\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\ad54c3c6a3eb7a75e22b4c11d44a464a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\ad54c3c6a3eb7a75e22b4c11d44a464a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\9232ca450a7819bc9662ff9af4966ba0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\9232ca450a7819bc9662ff9af4966ba0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39e55a978bdce567153ff9270df053d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39e55a978bdce567153ff9270df053d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6d2a7c791ab345da889eba347746e40d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6d2a7c791ab345da889eba347746e40d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\e1f5fe37015b27aac2e88f1c195b1adc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\e1f5fe37015b27aac2e88f1c195b1adc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\4140305387fc1f790a75e371a111c900\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\4140305387fc1f790a75e371a111c900\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\7326f804949961537c47030dc3bedba6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\neotris\.gradle\caches\8.13\transforms\7326f804949961537c47030dc3bedba6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\318c6b62af15ac8dd8bea09398422bea\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\318c6b62af15ac8dd8bea09398422bea\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b6e4baffbac0577dce5daf689e4e7244\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b6e4baffbac0577dce5daf689e4e7244\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\f494a5f1a562121e01edd9a5ffd695a4\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\f494a5f1a562121e01edd9a5ffd695a4\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6ea6fa69a08cb1e70adf145d9ab06ccf\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6ea6fa69a08cb1e70adf145d9ab06ccf\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b3714c2db5a36a3aad46685c36344641\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\b3714c2db5a36a3aad46685c36344641\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6b9adc835d475a314de7069f8cbc6f3b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\6b9adc835d475a314de7069f8cbc6f3b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\77ae1b80ce6019c85588a7516f604139\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\77ae1b80ce6019c85588a7516f604139\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\3d0987b6a1f887f06ac83e405fe97b4f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\3d0987b6a1f887f06ac83e405fe97b4f\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fb0c6f02a46138ce21d37da35c207ffe\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\fb0c6f02a46138ce21d37da35c207ffe\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\5ea91a1a74a5e2863294f8a9e625f6e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\5ea91a1a74a5e2863294f8a9e625f6e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\afd2ed1087547418f309852460498f1c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\afd2ed1087547418f309852460498f1c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e7f2c8b64ed78ec2d5e5ddbd3364f30\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8e7f2c8b64ed78ec2d5e5ddbd3364f30\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8018746e4a32b9b18d323a5ff521ff26\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\8018746e4a32b9b18d323a5ff521ff26\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\5cc3f598ab0aa7c28e70a05ca4c6c306\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\5cc3f598ab0aa7c28e70a05ca4c6c306\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b3da51865b82aba94ceb4815f3db6568\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\b3da51865b82aba94ceb4815f3db6568\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7a9c34f18c28fcb4577797a4a2b19b8a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\7a9c34f18c28fcb4577797a4a2b19b8a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39fc492bf0f8c645b19c7ffc48011e51\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39fc492bf0f8c645b19c7ffc48011e51\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39d1a16cb9bbb09bf2f19670b23dc302\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\39d1a16cb9bbb09bf2f19670b23dc302\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\025a57b24e84a5525dc6bdaab124e3bb\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\neotris\.gradle\caches\8.13\transforms\025a57b24e84a5525dc6bdaab124e3bb\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6bcb5e888f4c445248c35345cc83d224\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\6bcb5e888f4c445248c35345cc83d224\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\neotris\AndroidStudioProjects\aplikasi1\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\neotris\.gradle\caches\8.13\transforms\a229ff0bfc8b7b3158c36f270d0ca50f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\neotris\.gradle\caches\8.13\transforms\1ceef62aa378a1dd5a86a8d799b32e55\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\neotris\.gradle\caches\8.13\transforms\a9ea4f823c5d634a1cbd62bb2e231850\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.example.aplikasi1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.aplikasi1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\neotris\.gradle\caches\8.13\transforms\c0795a41f79d73b9fd4823fca6ccb996\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\neotris\.gradle\caches\8.13\transforms\c7c0d672c1d81358613b013f3c05f4f8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\neotris\.gradle\caches\8.13\transforms\910134938e34565e3e99a60de0d6ab71\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

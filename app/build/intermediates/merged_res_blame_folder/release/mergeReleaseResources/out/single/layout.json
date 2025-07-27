@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.aplikasi1.app-mergeReleaseResources-48:/layout/activity_main.xml",
+        "source": "com.example.aplikasi1.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aplikasi1.app-mergeReleaseResources-48:/layout/fragment_first.xml",
+        "source": "com.example.aplikasi1.app-main-50:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.aplikasi1.app-mergeReleaseResources-48:/layout/content_main.xml",
+        "source": "com.example.aplikasi1.app-main-50:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.aplikasi1.app-mergeReleaseResources-48:/layout/fragment_second.xml",
+        "source": "com.example.aplikasi1.app-main-50:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.aplikasi1.app-mergeReleaseResources-48:/layout/activity_splash.xml",
+        "source": "com.example.aplikasi1.app-main-50:/layout/activity_splash.xml"
+    }
+]

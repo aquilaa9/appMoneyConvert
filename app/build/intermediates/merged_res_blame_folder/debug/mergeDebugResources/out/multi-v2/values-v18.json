@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.aplikasi1.app-mergeDebugResources-47:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\neotris\\.gradle\\caches\\8.13\\transforms\\276bfb1caed954ce39e6b78a81fd6653\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-mergeDebugResources-48:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-main-51:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-mergeDebugResources-48:\\layout\\content_main.xml",
+        "source": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-main-51:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-mergeDebugResources-48:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-main-51:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\neotris\\.gradle\\daemon\\8.13\\com.example.aplikasi1.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.aplikasi1.app-mergeDebugResources-48:/layout/activity_splash.xml",
+        "source": "com.example.aplikasi1.app-main-51:/layout/activity_splash.xml"
+    }
+]
